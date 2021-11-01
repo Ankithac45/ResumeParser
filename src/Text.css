@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Navigation {
+    position: relative;
+    padding: 10px;
+    left: 0%;
+    background-color: #457B9D;
+    width: 100%;
+    font-size: 30px;
+    font-family: Arvo;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.fourth {
+    float: right;
+}
+
+.page {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: #A8DADC;
+}
+
+.text {
+    position: absolute;
+    width: 30%;
+    height: 70%;
+    left: 60%;
+    top: 20%;
+}
+
+.input {
+    position: absolute;
+    padding: 20px;
+    width: 35%;
+    height: 11%;
+    left: 10%;
+    top: 40%;
+    background: #F1FAEE;
+    border-radius: 45px;
+}

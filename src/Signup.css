@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    position: relative;
+    background: #457B9D;
+}
+
+.Heading {
+    position: absolute;
+    left: 40.91%;
+    right: 30.67%;
+    top: 2.14%;
+    bottom: 89.8%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 79px;
+    color: #1D3557;
+}
+
+.frame {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 25%;
+    top: 0px;
+    background: #A8DADC;
+}
+
+.img2 {
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    left: 40%;
+    top: 15%;
+    bottom: 45.31%;
+}
+
+.icon1 {
+    position: absolute;
+    width: 7%;
+    height: 11%;
+    left: 29%;
+    top: 40%;
+}
+
+.icon2 {
+    position: absolute;
+    width: 7%;
+    height: 11%;
+    left: 29%;
+    top: 55%;
+}
+
+.icon3 {
+    position: absolute;
+    width: 7%;
+    height: 11%;
+    left: 29%;
+    top: 70%;
+}
+
+.username {
+    position: absolute;
+    padding: 20px;
+    width: 35%;
+    height: 11%;
+    left: 36%;
+    top: 40%;
+    background: #F1FAEE;
+}
+
+.password {
+    position: absolute;
+    padding: 20px;
+    width: 35%;
+    height: 11%;
+    left: 36%;
+    top: 55%;
+    background: #F1FAEE;
+}
+
+.cpassword {
+    position: absolute;
+    width: 35%;
+    left: 36%;
+    height: 11%;
+    top: 70%;
+    padding: 20px;
+    background: #F1FAEE;
+}
+
+.Submit {
+    position: absolute;
+    padding: 30px;
+    width: 20%;
+    height: 9%;
+    left: 40%;
+    top: 84%;
+    background: #F50057;
+    border-radius: 24px;
+}
+
+.signup {
+    position: absolute;
+    left: 20%;
+    right: 20.13%;
+    top: 4%;
+    bottom: 4.29%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 59px;
+    color: #FFFFFF;
+}
+
+.Heading1 {
+    position: absolute;
+    left: 42%;
+    top: 91%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 60px;
+    color: #1D3557;
+}
+
+::placeholder {
+    position: absolute;
+    left: 4%;
+    top: 10%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 59px
+}

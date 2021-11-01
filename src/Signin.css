@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    position: relative;
+    background: #457B9D;
+}
+
+.frame {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 25%;
+    top: 0px;
+    background: #A8DADC;
+}
+
+.username {
+    position: absolute;
+    padding: 20px;
+    width: 40%;
+    left: 30%;
+    top: 57.35%;
+    bottom: 32.04%;
+    background: #F1FAEE;
+}
+
+.password {
+    position: absolute;
+    padding: 20px;
+    width: 40%;
+    left: 30%;
+    right: 12.75%;
+    top: 71.63%;
+    bottom: 17.76%;
+    background: #F1FAEE;
+}
+
+.Heading {
+    position: absolute;
+    left: 40.91%;
+    right: 30.67%;
+    top: 2.14%;
+    bottom: 89.8%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 79px;
+    color: #1D3557;
+}
+
+.img1 {
+    position: absolute;
+    width: 40%;
+    height: 40%;
+    left: 30%;
+    top: 15%;
+    bottom: 45.31%;
+}
+
+.Submit {
+    position: absolute;
+    padding: 30px;
+    width: 20%;
+    left: 40%;
+    top: 88.16%;
+    bottom: 2.35%;
+    background: #F50057;
+    border-radius: 24px;
+}
+
+.signin {
+    position: absolute;
+    left: 20%;
+    right: 20.13%;
+    top: 5.69%;
+    bottom: 4.29%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 59px;
+    color: #FFFFFF;
+}
+
+::placeholder {
+    position: absolute;
+    left: 0%;
+    top: 10%;
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 59px
+}
